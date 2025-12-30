@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2025-12-03T16:12:17.363465
+description,Description,Daily port activity and preliminary shipment volume estimates for Nigeria. See variable descriptions here
+format,File Format,CSV
+download_url,Download URL,https://data.humdata.org/dataset/a2e28782-fe89-4bdd-b353-84a7bbeb605c/resource/b7853fa7-2381-444e-81e1-a78adce7fd3f/download/nigeria-daily-port-activity-data-and-shipment-estimates.csv
+id,Resource ID,b7853fa7-2381-444e-81e1-a78adce7fd3f
+last_modified,Updated,2025-12-03T16:12:18.570558
+metadata_modified,Metadata Updated,2025-12-03T16:12:22.534800
+microdata,Microdata,False
+dataset_id,Dataset ID,a2e28782-fe89-4bdd-b353-84a7bbeb605c
+resource_type,Resource Type,file.upload
+name,Resource Name,nigeria-daily-port-activity-data-and-shipment-estimates.csv
+mimetype,MIME Type,
+size,Size,9.4M
